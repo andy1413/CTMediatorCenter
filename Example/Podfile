@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CTMediatorCenter_Example' do
+  pod 'CTMediatorCenter', :path => '../'
+
+  target 'CTMediatorCenter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "CTMediatorCenter",
+  "version": "0.1.0",
+  "summary": "A short description of CTMediatorCenter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangfangshuai/CTMediatorCenter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangfangshuai": "wangfangshuai@apusapps.com"
+  },
+  "source": {
+    "git": "https://github.com/wangfangshuai/CTMediatorCenter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Sources/CTMediatorCenter/Classes/**/*"
+}

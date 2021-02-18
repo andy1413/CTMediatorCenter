@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CTMediator",
+        "repositoryURL": "https://github.com/wangfangshuai/CTMediator.git",
+        "state": {
+          "branch": null,
+          "revision": "edd65889ab5a132be1ec07ced07b320b8022591f",
+          "version": "1.0.45"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
