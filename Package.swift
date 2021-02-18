@@ -11,7 +11,7 @@ let package = Package(
     .library(name: "CTMediatorCenter", targets: ["CTMediatorCenter"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/wangfangshuai/CTMediator.git", .upToNextMajor(from: "1.0.45")),
+    .package(url: "https://github.com/wangfangshuai/CTMediator.git", .upToNextMajor(from: "1.0.49")),
   ],
   targets: [
     .target(
